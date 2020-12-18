@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: CollegeBoreal
+@author: Marinhuus
 """
 
 def main():
-  #print('Informatique: le rêve')
+  print('Informatique: le reve')
 
 if __name__== "__main__":
   main()
